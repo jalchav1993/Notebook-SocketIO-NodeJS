@@ -31,6 +31,6 @@ node index.js
 ```
 ### Ackloledgements 
 Many thanks to the Socket.IO team, they do invaluable work: 
-see[socket.io](https://github.com/socketio/socket.io)
+see [socket.io](https://github.com/socketio/socket.io)
 
 
