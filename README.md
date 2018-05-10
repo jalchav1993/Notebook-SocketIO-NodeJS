@@ -16,10 +16,10 @@ Full feature socket.io style implemented (polling & websocket), based-on `socket
 ### Install
 
 ```
-	cd ~/
-	git clone https://github.com/jalchav1993/Notebook-SocketIO-NodeJS.git
-	cd Notebook-SocketIO-NodeJS
-	npm install
+cd ~/
+git clone https://github.com/jalchav1993/Notebook-SocketIO-NodeJS.git
+cd Notebook-SocketIO-NodeJS
+npm install
 ```
 
 ### Compiled
@@ -34,5 +34,6 @@ node index.js
 2.  require this filr in your code.
 
 ### example with Android Project client
+```
 https://github.com/jalchav1993/Notebook-SocketIO-Android-Client
 ```
