@@ -28,11 +28,6 @@ npm install
 node index.js
 ```
 
-### Import yout weapp project
-
-1.  move your compiled file in your `dist` dir
-2.  require this filr in your code.
-
 ### example with Android Project client
 ```
 https://github.com/jalchav1993/Notebook-SocketIO-Android-Client
