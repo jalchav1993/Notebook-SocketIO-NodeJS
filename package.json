@@ -3,7 +3,10 @@
   "version": "2.2.2",
   "description": "A simple chat client using socket.io",
   "main": "index.js",
-  "author": "Jesus Chavez",
+  "author": {
+    "name": "Jesus Alejandro Chavez-Pachicoa-Medi-Hotza",
+    "email": "jachavez21@miners.utep.edu"
+  },
   "private": true,
   "license": "GNU",
   "dependencies": {
