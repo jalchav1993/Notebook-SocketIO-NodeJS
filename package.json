@@ -1,11 +1,11 @@
 {
-  "name": "socket.io-notebook",
-  "version": "0.0.0",
+  "name": "Notebook-SocketIO-NodeJS",
+  "version": "2.2.2",
   "description": "A simple chat client using socket.io",
   "main": "index.js",
   "author": "Jesus Chavez",
   "private": true,
-  "license": "BSD",
+  "license": "GNU",
   "dependencies": {
     "async": "^2.6.0",
     "cassandra-driver": "^3.5.0",
