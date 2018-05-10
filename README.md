@@ -1,8 +1,9 @@
 # Notebook-SocketIO-NodeJS
 Beck end for Notebook-SocketIO-Android
-# weapp.socket.io
 
-See [Weapp demo](https://github.com/wxsocketio/socket.io-weapp-demo)
+# Notebook-SocketIO-NodeJS Demo
+
+See [notebook-SocketIO-NodeJS with Notebook-SocketIO-Android-Client demo](https://github.com/jalchav1993/Notebook-SocketIO-Android-Client)
 
 ## Feature
 
@@ -28,7 +29,4 @@ npm install
 node index.js
 ```
 
-### example with Android Project client
-```
-https://github.com/jalchav1993/Notebook-SocketIO-Android-Client
-```
+
