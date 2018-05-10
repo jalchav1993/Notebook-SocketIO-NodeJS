@@ -1,0 +1,20 @@
+{
+  "name": "socket.io-notebook",
+  "version": "0.0.0",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "author": "Jesus Chavez",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cassandra-driver": "^3.5.0",
+    "express": "4.16.3",
+    "express-session": "^1.15.6",
+    "session-file-store": "^1.2.0",
+    "socket.io": "2.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
