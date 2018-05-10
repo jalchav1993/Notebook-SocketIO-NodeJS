@@ -8,7 +8,7 @@ See [Weapp demo](https://github.com/wxsocketio/socket.io-weapp-demo)
 
 Full feature socket.io style implemented (polling & websocket), based-on `socket.io@3.^` version
 
-> Note: weapp's http request ARE supported
+> http request ARE supported, just add routing to index.js
 > Supports N clients
 
 ## How to use
